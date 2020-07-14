@@ -1,5 +1,7 @@
 # desicion-tree-with-regression-model-in-leaves
 
+**If you have trouble with watching ipynb online, click [Here](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/desicion-tree-with-regression-model-in-leaves/blob/master/project.html) to see code with describtion**  
+
 The goal of the project is to create a decision tree with a regression model in each leaves
 
 The algorithm of the implemented decision tree enumerates all possible options for splitting the dataframe. 
